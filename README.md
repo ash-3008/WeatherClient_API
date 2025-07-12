@@ -25,7 +25,7 @@ A lightweight command-line Java application that fetches and displays real-time 
 1. **Clone this repository** (or download the Java file):
 
     ```bash
-    git clone https://github.com/your-username/weather-client-java.git
+    git clone https://github.com/ash-3008/weather-client-java.git
     cd weather-client-java
     ```
 
